@@ -1,12 +1,12 @@
-// program to call default constructor using instance
+// program to call nonparamiterised constructor using instance
 #include<iostream>
 using namespace std;
 
 class instance{
     public:
-    // default constructor
+    //nonparameterised constructor
     instance(){
-        cout<<"default constructor is called using instance";
+        cout<<"nonparamiterised constructor is called using instance";
     }
     //parameterised constructor
     instance(int a , int b){
