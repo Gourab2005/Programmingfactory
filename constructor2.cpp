@@ -16,7 +16,7 @@ class student{
         cout<<"Enter your university roll: ";
         cin>>uni_number;
         cout<<"Enter the date_of_birth: ";
-        cin>>dob;
+        cin>>dob;  
     }
     
     void display(){
